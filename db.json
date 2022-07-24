@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "date": "12.05.2000",
+            "name": "Moscow",
+            "amount": 10,
+            "distance": 570
+        },
+        {
+            "date": "12.05.2001",
+            "name": "London",
+            "amount": 9,
+            "distance": 580
+        },
+        {
+            "date": "12.05.2002",
+            "name": "Los Angeles",
+            "amount": 8,
+            "distance": 590
+        },
+        {
+            "date": "12.05.2003",
+            "name": "Paris",
+            "amount": 10,
+            "distance": 570
+        },
+        {
+            "date": "12.05.2004",
+            "name": "Berlin",
+            "amount": 10,
+            "distance": 570
+        },
+        {
+            "date": "12.05.2005",
+            "name": "Saint-Petesburg",
+            "amount": 10,
+            "distance": 570
+        },
+        {
+            "date": "12.05.2004",
+            "name": "Sochi",
+            "amount": 10,
+            "distance": 570
+        },
+        {
+            "date": "12.05.2003",
+            "name": "New York",
+            "amount": 10,
+            "distance": 102
+        },
+        {
+            "date": "12.05.2002",
+            "name": "Belfast",
+            "amount": 10,
+            "distance": 570
+        },
+        {
+            "date": "12.05.2001",
+            "name": "Frankfurt",
+            "amount": 10,
+            "distance": 3232
+        }
+    ]
+}
