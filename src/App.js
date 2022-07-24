@@ -63,7 +63,7 @@ const App = () => {
             // eslint-disable-next-line default-case
             switch(columnName) { // сначала проверяем название колонки и в зависимости от этого запускаем функция подфильтрации с разными аргументами
                 case 'Название':
-                    return filterByCondition(item, 'name', condition, value.toLowerCase());
+                    return filterByCondition(item, 'name', condition, value);
                 case 'Количество':
                     return filterByCondition(item, 'amount', condition, value);
                 case 'Расстояние':
@@ -74,7 +74,7 @@ const App = () => {
     }
 
     
-
+    // для сортировки данных нужно нажать на название колонки
     const sortColumn = (key) => { // функция сортировки
         let sortedData = filteredData.slice() // копируем массив основных данных
 
